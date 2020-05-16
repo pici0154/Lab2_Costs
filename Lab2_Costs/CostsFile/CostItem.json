@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "Currency": "RON",
+    "Date": "05/14/2020 17:26:25",
+    "Description": "firma",
+    "Location": "cluj",
+    "Sum": "20.02",
+    "Type": "clothes"
+  },
+  {
+    "Id": "2",
+    "Currency": "RON",
+    "Date": "05/15/2020 17:26:25",
+    "Description": "t-shirt",
+    "Location": "cluj",
+    "Sum": "202.5",
+    "Type": "clothes"
+  },
+  {
+    "Id": "3",
+    "Currency": "RON",
+    "Date": "06/15/2020 17:26:25",
+    "Description": "t-shirt",
+    "Location": "cluj",
+    "Sum": "202.5",
+    "Type": "clothes"
+  },
+  {
+    "Id": "4",
+    "Currency": "RON",
+    "Date": "04/15/2020 17:26:25",
+    "Description": "TV",
+    "Location": "CJ",
+    "Sum": "252.5",
+    "Type": "electronics"
+  },
+  {
+    "Id": "5",
+    "Currency": "RON",
+    "Date": "04/15/2020 17:26:25",
+    "Description": "bread",
+    "Location": "CJ",
+    "Sum": "252.5",
+    "Type": "food"
+  }
+]
